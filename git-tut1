@@ -21,6 +21,9 @@ git log --oneline
 
 git pull to update the local repository with remote repository.
 
+git fetch notify the updates and git pull download the updates
+git fetch+git merge=git pull.
+
 
 
 
