@@ -1,0 +1,26 @@
+Git Tutorials
+==============
+
+Configure github
+==================
+git config --global --list
+git config --global user.email x@y.com
+git config --global user.name myusername
+
+Check if gitinstalled
+======================
+git --version
+
+Defult branch in git
+====================
+The default branch in git is master branch.
+
+Commit timeline
+===============
+git log --oneline
+
+git pull to update the local repository with remote repository.
+
+
+
+
